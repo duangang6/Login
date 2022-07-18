@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="zhanghao">1234567890</string>
+    <string name="mimakuang">输入你的密码</string>
+    <string name="denglu">登录</string>
+    <string name="qiehuan">切换登录方式</string>
+    <string name="zhaohuimima">找回密码</string>
+    <string name="jinjidongjie">紧急冻结</string>
+    <string name="gengduo">更多</string>
+</resources>
